@@ -2,6 +2,8 @@
 #include <map>
 #include <string>
 
+// Use Visual Studio Community 2022 amd_64 and x86 compiler
+
 using namespace std;
 
 string getRNASequence(string &dna){

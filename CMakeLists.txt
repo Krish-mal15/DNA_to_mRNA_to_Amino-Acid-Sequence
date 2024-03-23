@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.0.0)
-project(Cpp_Testing VERSION 0.1.0)
+project(DNA_to_mRNA_to_Amino-Acid-Sequence_CPP VERSION 0.1.0)
 
 include(CTest)
 enable_testing()
